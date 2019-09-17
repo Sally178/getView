@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View view) {
-        out.setText("aaa");
+        out.setText("aaaaaaaa");
     }
     public void bbb(View b){
         out.setText("bbb");
