@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="str1">output</string>
+    <string name="str2">input</string>
+    <string name="str3">button</string>
+    <string name="str4">button2</string>
+    <string name="str5">button3</string>
+</resources>
